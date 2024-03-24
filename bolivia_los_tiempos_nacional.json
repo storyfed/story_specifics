@@ -1,5 +1,36 @@
-{
-    "category1": "1660881868204x368102890838183600",
-    "category2": "1651966666789x190743031680225660"
-  }
-
+[
+    {
+        "wfParameters": [
+            {
+                "key": "category_1",
+                "type": "text",
+                "value": "1660881868204x368102890838183600"
+            },
+            {
+                "key": "category_2",
+                "type": "text",
+                "value": "1651966666789x190743031680225660"
+            },
+            {
+                "key": "publisher",
+                "type": "text",
+                "value": "1655157395474x758491879751870500"
+            },
+            {
+                "key": "trending_topic",
+                "type": "text",
+                "value": "1660881977880x404097404213406660"
+            },
+            {
+                "key": "rss_source",
+                "type": "text",
+                "value": "https://www.lostiempos.com/rss/portada"
+            },
+            {
+                "key": "country",
+                "type": "text",
+                "value": "1711220356867x237441170254602880"
+            }
+        ]
+    }
+]
